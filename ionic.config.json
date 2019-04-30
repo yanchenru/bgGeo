@@ -1,0 +1,7 @@
+{
+  "name": "bgGeo",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
